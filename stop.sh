@@ -1,0 +1,3 @@
+#gnome-terminal
+ps -ef | grep java
+#sudo kill -9 <pid>

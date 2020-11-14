@@ -1,0 +1,1 @@
+git clone -o PersonOfGameLibrary https://github.com/Kovalsky95/PersonOfGameLibrary.git

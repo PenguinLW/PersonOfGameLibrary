@@ -1,3 +1,6 @@
+#in venv
+#pip install -r req.txt
+pip freeze > req.txt
 #git clone -o PersonOfGameLibrary https://github.com/Kovalsky95/PersonOfGameLibrary.git
 #git config --global credential.helper cache
 git config --global credential.helper "cache --timeout=25200"
